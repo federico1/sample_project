@@ -25,7 +25,7 @@ SECRET_KEY = 't#80j+3i!)-dw*eob2-7dwar4amgc75ezpbfcamir*d-m+ez8m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['construction-safety-nyc.com','18.221.173.7']
+ALLOWED_HOSTS = ['.construction-safety-nyc.com','18.221.173.7','localhost']
 
 
 # Application definition
